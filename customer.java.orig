@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+#It is modified by user2
+=======
+#Customer modified by user1
+>>>>>>> 1630265ec98d72624658a9748015c0cd72183994
+class Customer{
+
+private long customerId;
+private String customerName;
+private LocalDate dob;
+private String email;
+}
